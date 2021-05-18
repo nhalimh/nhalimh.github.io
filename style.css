@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(204, 170, 235);
+}
+#projects {
+  background-color: rgb(204, 170, 235);
+}
+footer {
+  background-color: darkorchid;
+}
+section {
+  padding-top: 5rem;
+}
+.card-text {
+  color: darkorchid;
+}
